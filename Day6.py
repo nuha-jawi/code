@@ -1,0 +1,7 @@
+x=int(3.8)
+print(type(x),x)
+y=float(-3)
+print(type(y),y)
+z=str("44")
+print(type(z),z)
+exit()
