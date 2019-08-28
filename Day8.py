@@ -1,0 +1,10 @@
+a = '  Hello World   '
+s=a.strip()
+print(a)
+print(s)
+print(len(s))
+print(s.lower())
+print(s.upper())
+b=s.replace(" "," , ")
+print(b)
+print(b.split(" , "))
