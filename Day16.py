@@ -1,0 +1,12 @@
+t=()
+print(t)
+t2=('apple','banana','melon','orange')
+print(t2)
+print(t2[1])
+for x in t2:
+    print(x)
+print(t2[1:3])
+t3=('apple',)
+print(t3)
+t4=('ahmed',20,5.5)
+print(t4)
