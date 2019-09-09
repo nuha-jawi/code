@@ -1,0 +1,11 @@
+s={'amani','nuha',1,2,3,4,5}
+print('the length of s is',len(s))
+s.remove(1)
+s.discard(5)
+print(s)
+s.pop()
+print(s)
+s.clear()
+print(s)
+s2=set(('apple','banana','orange'))
+print(s2)
