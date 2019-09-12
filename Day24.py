@@ -1,0 +1,11 @@
+d={'brand':'ford','model':'Mustang','Year':1964,'color':'red'}
+d2=d.copy()
+print(d2)
+d3=dict(d)
+print(d3)
+myFamily={'Child1':{'name':'Emil','Year':2004},
+          'Child2':{'name':'Tobias','Year':2007},
+          'Child3':{'Name':'Linus','Year':2011}}
+print(myFamily)
+d4=dict(brand='Ford',color='red')
+print(d4)
